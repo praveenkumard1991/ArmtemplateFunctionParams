@@ -1,0 +1,35 @@
+[DEBUG  ] 25/01/2022 22:46:42,325 [main] AzureTemplateHandler:31  - C:\Users\dpraveenkumar\OneDrive\Desktop\AzureTemplate
+[DEBUG  ] 25/01/2022 22:48:45,246 [main] AzureTemplateHandler:31  - C:\Users\dpraveenkumar\OneDrive\Desktop\AzureTemplate
+[DEBUG  ] 25/01/2022 22:50:11,505 [main] AzureTemplateHandler:31  - C:\Users\dpraveenkumar\OneDrive\Desktop\AzureTemplate
+[DEBUG  ] 25/01/2022 23:53:13,199 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 25/01/2022 23:53:36,479 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 25/01/2022 23:53:36,562 [main] AzureTemplateHandler:92  - TempParam{type=string, minLength=0, maxLength=0, value=null, defaultValue=null, allowedValues=null}
+[DEBUG  ] 25/01/2022 23:53:36,901 [main] AzureTemplateHandler:92  - TempParam{type=string, minLength=0, maxLength=0, value=null, defaultValue=null, allowedValues=null}
+[DEBUG  ] 25/01/2022 23:53:36,906 [main] AzureTemplateHandler:92  - TempParam{type=securestring, minLength=0, maxLength=0, value=null, defaultValue=null, allowedValues=null}
+[DEBUG  ] 25/01/2022 23:53:36,908 [main] AzureTemplateHandler:92  - TempParam{type=string, minLength=0, maxLength=0, value=null, defaultValue=Standard_D2s_v3, allowedValues=null}
+[DEBUG  ] 26/01/2022 00:17:29,568 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 27/01/2022 19:49:18,673 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 27/01/2022 19:56:46,129 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 27/01/2022 19:57:16,756 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 27/01/2022 23:00:18,253 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 27/01/2022 23:00:34,756 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 27/01/2022 23:00:47,122 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 27/01/2022 23:02:10,735 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 27/01/2022 23:05:52,193 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 27/01/2022 23:43:47,236 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 03/02/2022 20:28:10,508 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 03/02/2022 23:26:08,650 [main] AzureTemplateHandler:31  - 
+[DEBUG  ] 04/02/2022 12:20:36,531 [main] AzureTemplateHandler:32  - 
+[DEBUG  ] 04/02/2022 12:20:53,538 [main] AzureTemplateHandler:32  - 
+[DEBUG  ] 04/02/2022 12:21:15,014 [main] AzureTemplateHandler:32  - 
+[DEBUG  ] 04/02/2022 12:21:29,374 [main] AzureTemplateHandler:32  - 
+[DEBUG  ] 04/02/2022 12:21:45,576 [main] AzureTemplateHandler:32  - 
+[DEBUG  ] 04/02/2022 12:21:58,158 [main] AzureTemplateHandler:32  - 
+[DEBUG  ] 04/02/2022 12:22:04,326 [main] AzureTemplateHandler:32  - 
+[DEBUG  ] 04/02/2022 12:23:05,354 [main] AzureTemplateHandler:32  - 
+[DEBUG  ] 04/02/2022 12:23:44,862 [main] AzureTemplateHandler:32  - 
+[DEBUG  ] 04/02/2022 12:24:02,204 [main] AzureTemplateHandler:32  - 
+[DEBUG  ] 04/02/2022 12:27:47,648 [main] AzureTemplateHandler:32  - 
+[DEBUG  ] 04/02/2022 12:30:11,794 [main] AzureTemplateHandler:33  - 
+[DEBUG  ] 04/02/2022 12:31:23,096 [main] AzureTemplateHandler:33  - 
+[DEBUG  ] 04/02/2022 12:32:10,286 [main] AzureTemplateHandler:33  - 
